@@ -1,12 +1,11 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "Eu sou um desenvolvedor FullStack .NET apaixonado, com expertise em .NET, Angular, Blazor e SQL Server, capacitado para criar soluções inovadoras e robustas que unem o melhor do back-end e front-end..",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    ".NET",
+    "Angular",
+    "Blazor",
+    "Sql Server",
+    "JQuery"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Sou apaixonado por resolver problemas complexos através de soluções criativas e eficientes, proporcionando experiências tecnológicas excepcionais."
 }

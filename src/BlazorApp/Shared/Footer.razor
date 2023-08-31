@@ -2,7 +2,7 @@
     @if (property is null)
     {
         <div style="display: flex; justify-content: center; gap: 2.5rem;">
-            <p><em>Loading...</em></p>
+            <p><em>Carregando...</em></p>
         </div>
     }
     else if (icons is not null)
@@ -38,26 +38,8 @@
                     <img src="@icons.LinkedIn" alt="LinkedIn" class="social-icon" />
                 </a>
             }
-            @if (string.IsNullOrWhiteSpace(property.Medium) is false)
-            {
-                <a href="https://medium.com/@@@(property.Medium)" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.Medium" alt="Medium" class="social-icon" />
-                </a>
-            }
-            @if (string.IsNullOrWhiteSpace(property.Twitter) is false)
-            {
-                <a href="https://twitter.com/@(property.Twitter)" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.Twitter" alt="Twitter" class="social-icon" />
-                </a>
-            }
-            @if (string.IsNullOrWhiteSpace(property.YouTube) is false)
-            {
-                <a href="https://youtube.com/@(property.YouTube)" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.YouTube" alt="YouTube" class="social-icon" />
-                </a>
-            }
         </div>
-        <p class="small" style="margin-top: 0; color: white;">Created by @property.Name</p>
+        <p class="small" style="margin-top: 0; color: white;">Criado por @property.Name</p>
     }
 </div>
 
