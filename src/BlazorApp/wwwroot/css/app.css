@@ -88,9 +88,10 @@ h2 {
 }
 
 h3 {
-  font-weight: 400;
-  font-size: 1.25rem;
-  margin: 0;
+    font-weight: 400;
+    font-size: 1.25rem;
+    margin: 0;
+    color: black;
 }
 
 p {
@@ -122,12 +123,12 @@ li::marker {
 
 a {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 
-a:hover {
-  color: #4e567e;
-}
+    a:hover {
+        color: rgb(22, 26, 66);
+    }
 
 .portfolio-container {
   display: flex;

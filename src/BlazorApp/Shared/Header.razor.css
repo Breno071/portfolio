@@ -1,11 +1,12 @@
 #header {
-  position: fixed;
-  display: flex;
-  justify-content: center;
-  gap: 2rem;
-  background: rgba(255,255,255,0.75);
-  padding: 1rem;
-  top: 0;
-  width: 100%;
-  z-index: 10;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    background: rgb(71,18,99);
+    background: linear-gradient(90deg, rgba(71,18,99,1) 0%, rgba(193,17,195,1) 100%, rgba(0,212,255,1) 100%);
+    padding: 1rem;
+    top: 0;
+    width: 100%;
+    z-index: 10;
 }
