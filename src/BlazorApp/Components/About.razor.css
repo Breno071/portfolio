@@ -1,0 +1,17 @@
+.skills {
+    text-align: left;
+    columns: 2;
+    font-size: 1.25rem;
+    margin: 2rem 3rem;
+    gap: 3rem;
+}
+
+@media only screen and (max-width: 570px) {
+    .skills {
+        text-align: center;
+        columns: 1;
+        font-size: 1.25rem;
+        margin: 2rem 3rem;
+        gap: 3rem;
+    }
+}
