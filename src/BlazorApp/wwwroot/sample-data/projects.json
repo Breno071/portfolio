@@ -10,13 +10,23 @@
     "url": "https://github.com/Breno071/React-Calculadora"
   },
   {
-    "title": "Landing Page Casas Bahia(Privado)",
-    "description": "Criado usando ASP NET MVC, foi desenvolvido uma landing page para o fluxo de aceite do cartão casas Bahia Platinum.",
-    "url": "#"
-  },
-  {
-    "title": "Techno",
+    "title": "Techno(Mini E-Commerce)",
     "description": "Techno é um sistema de mini e-commerce feito usando Vue JS.",
     "url": "https://github.com/Breno071/Techno"
-  }
+  },
+  {
+    "title": "Serviço de correio eletrônico usando Kafka",
+    "description": "Serviço de correio eletrônico baseado em tópicos de interesse.",
+    "url": "https://github.com/Breno071/FabricaDeSpam"
+  },
+  {
+    "title": "Gerenciador de Notas Fiscais",
+    "description": "Projeto de API de gerenciamento de Notas Fiscais com testes Unitários.",
+    "url": "https://github.com/Breno071/project-backend-notasfiscais-test"
+  },
+  {
+    "title": "Real time Chat",
+    "description": "Real time Chat com SignalR.",
+    "url": "https://github.com/Breno071/RealTimeChat"
+  },
 ]
