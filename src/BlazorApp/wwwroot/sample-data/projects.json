@@ -28,5 +28,15 @@
     "title": "Real time Chat",
     "description": "Real time Chat com SignalR.",
     "url": "https://github.com/Breno071/RealTimeChat"
+  },
+  {
+    "title": "API de transporte público",
+    "description": "API de transporte público usando entity framework, dapper, automapper, docker e testes unitários.",
+    "url": "https://github.com/Breno071/PublicTransportAPI"
+  },
+  {
+    "title": "Desafios Hacker Rank",
+    "description": "Desafios do site Hacker Rank que eu já solucionei e disponibilizo contribuir com as dúvidas da comunidade.",
+    "url": "https://github.com/Breno071/HackerRankDesafios"
   }
 ]
