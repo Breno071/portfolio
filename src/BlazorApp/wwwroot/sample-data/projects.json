@@ -38,5 +38,10 @@
     "title": "Desafios Hacker Rank",
     "description": "Desafios do site Hacker Rank que eu já solucionei e disponibilizo contribuir com as dúvidas da comunidade.",
     "url": "https://github.com/Breno071/HackerRankDesafios"
+  },
+  {
+    "title": "Relógio Pomodoro",
+    "description": "Relógio Pomodoro feito usando angular 17.",
+    "url": "https://breno071.github.io/relogio-pomodoro/"
   }
 ]
