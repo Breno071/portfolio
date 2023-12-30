@@ -43,5 +43,10 @@
     "title": "Relógio Pomodoro",
     "description": "Relógio Pomodoro feito usando angular 17.",
     "url": "https://breno071.github.io/relogio-pomodoro/"
+  },
+  {
+    "title": "Serviço de correio eletrônico",
+    "description": "Serviço de correio eletrônico usando RabbitMQ.",
+    "url": "https://github.com/Breno071/ServicoCorreioEletronico"
   }
 ]
