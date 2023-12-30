@@ -15,16 +15,6 @@
     "url": "https://github.com/Breno071/Techno"
   },
   {
-    "title": "Serviço de correio eletrônico usando Kafka",
-    "description": "Serviço de correio eletrônico baseado em tópicos de interesse.",
-    "url": "https://github.com/Breno071/FabricaDeSpam"
-  },
-  {
-    "title": "Gerenciador de Notas Fiscais",
-    "description": "Projeto de API de gerenciamento de Notas Fiscais com testes Unitários.",
-    "url": "https://github.com/Breno071/project-backend-notasfiscais-test"
-  },
-  {
     "title": "Real time Chat",
     "description": "Real time Chat com SignalR.",
     "url": "https://github.com/Breno071/RealTimeChat"
