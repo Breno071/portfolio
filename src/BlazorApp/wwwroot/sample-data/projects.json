@@ -38,5 +38,10 @@
     "title": "Serviço de correio eletrônico",
     "description": "Serviço de correio eletrônico usando RabbitMQ.",
     "url": "https://github.com/Breno071/ServicoCorreioEletronico"
-  }
+  },
+  {
+    "title": "Sistema de Biblioteca",
+    "description": "Sistema de gerenciamento de Biblioteca usando mensageria, SQL, Entity Framework e Docker.",
+    "url": "https://github.com/Breno071/Biblioteca"
+  },
 ]
