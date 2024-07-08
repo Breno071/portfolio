@@ -1,11 +1,10 @@
 {
-  "description": "Eu sou um desenvolvedor FullStack .NET, com expertise em .NET, Angular, Blazor e SQL Server, capacitado para criar soluções inovadoras e robustas que unem o melhor do back-end e front-end.",
+  "description": "Eu sou um desenvolvedor Back-End .NET, com expertise em .NET, C#, e SQL Server, capacitado para criar soluções inovadoras e robustas.",
   "skills": [
     ".NET",
     "Angular",
     "Blazor",
-    "Sql Server",
-    "JQuery"
+    "Sql Server"
   ],
-  "detailOrQuote": "Sou apaixonado por resolver problemas complexos através de soluções criativas e eficientes, proporcionando experiências tecnológicas excepcionais."
+  "detailOrQuote": "Sou apaixonado por resolver problemas complexos através de soluções criativas e eficientes, proporcionando ótimas experiências tecnológicas."
 }
