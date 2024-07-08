@@ -43,5 +43,5 @@
     "title": "Sistema de Biblioteca",
     "description": "Sistema de gerenciamento de Biblioteca usando mensageria, SQL, Entity Framework e Docker.",
     "url": "https://github.com/Breno071/Biblioteca"
-  },
+  }
 ]
