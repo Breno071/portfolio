@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu portfólio! Este repositório contém uma coleção de proje
 
 ## Sobre Mim
 
-Me chamo Breno, sou um Desenvolvedor Fullstack .NET apaixonado por desenvolvimento. Tenho uma sólida experiência em Desenvolvimento Web completo e estou constantemente buscando aprender e crescer como profissional.
+Me chamo Breno, sou um Desenvolvedor Fullstack .NET com foco em Back-End apaixonado por desenvolvimento. Tenho uma sólida experiência em Desenvolvimento Web completo e estou constantemente buscando aprender e crescer como profissional.
 
 ## Habilidades
 
